@@ -1,0 +1,19 @@
+{
+  "name": "estudio-contable",
+  "version": "1.0.0",
+  "description": "Sitio web para estudio contable - Consultores Tributarios",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server . -p 8000 -o",
+    "start": "npx http-server . -p 8000",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "contable",
+    "tributario",
+    "creditos-fiscales"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+

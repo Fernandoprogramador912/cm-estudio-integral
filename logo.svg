@@ -1,0 +1,56 @@
+<svg width="240" height="120" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 120">
+  <!-- Letter C in vibrant blue with rounded segments -->
+  <g fill="#0066CC">
+    <!-- Top horizontal -->
+    <rect x="10" y="10" width="16" height="14" rx="3" ry="3"/>
+    <rect x="30" y="10" width="16" height="14" rx="3" ry="3"/>
+    <rect x="50" y="10" width="16" height="14" rx="3" ry="3"/>
+    <rect x="70" y="10" width="16" height="14" rx="3" ry="3"/>
+    
+    <!-- Left vertical -->
+    <rect x="10" y="28" width="16" height="14" rx="3" ry="3"/>
+    <rect x="10" y="46" width="16" height="14" rx="3" ry="3"/>
+    <rect x="10" y="64" width="16" height="14" rx="3" ry="3"/>
+    <rect x="10" y="82" width="16" height="14" rx="3" ry="3"/>
+    
+    <!-- Bottom horizontal -->
+    <rect x="30" y="82" width="16" height="14" rx="3" ry="3"/>
+    <rect x="50" y="82" width="16" height="14" rx="3" ry="3"/>
+    <rect x="70" y="82" width="16" height="14" rx="3" ry="3"/>
+  </g>
+  
+  <!-- Letter M in dark gray, slightly taller and wider -->
+  <g fill="#2C2C2C">
+    <!-- Left vertical -->
+    <rect x="102" y="10" width="16" height="14" rx="3" ry="3"/>
+    <rect x="102" y="28" width="16" height="14" rx="3" ry="3"/>
+    <rect x="102" y="46" width="16" height="14" rx="3" ry="3"/>
+    <rect x="102" y="64" width="16" height="14" rx="3" ry="3"/>
+    <rect x="102" y="82" width="16" height="14" rx="3" ry="3"/>
+    
+    <!-- Right vertical -->
+    <rect x="182" y="10" width="16" height="14" rx="3" ry="3"/>
+    <rect x="182" y="28" width="16" height="14" rx="3" ry="3"/>
+    <rect x="182" y="46" width="16" height="14" rx="3" ry="3"/>
+    <rect x="182" y="64" width="16" height="14" rx="3" ry="3"/>
+    <rect x="182" y="82" width="16" height="14" rx="3" ry="3"/>
+    
+    <!-- Left diagonal -->
+    <rect x="122" y="28" width="16" height="14" rx="3" ry="3"/>
+    <rect x="122" y="46" width="16" height="14" rx="3" ry="3"/>
+    <rect x="142" y="46" width="16" height="14" rx="3" ry="3"/>
+    <rect x="142" y="64" width="16" height="14" rx="3" ry="3"/>
+    
+    <!-- Right diagonal -->
+    <rect x="162" y="28" width="16" height="14" rx="3" ry="3"/>
+    <rect x="162" y="46" width="16" height="14" rx="3" ry="3"/>
+    
+    <!-- Top horizontal -->
+    <rect x="122" y="10" width="16" height="14" rx="3" ry="3"/>
+    <rect x="142" y="10" width="16" height="14" rx="3" ry="3"/>
+    <rect x="162" y="10" width="16" height="14" rx="3" ry="3"/>
+  </g>
+  
+  <!-- Text "ESTUDIO INTEGRAL" below in dark gray sans-serif -->
+  <text x="120" y="108" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" fill="#2C2C2C" text-anchor="middle" letter-spacing="1.2px">ESTUDIO INTEGRAL</text>
+</svg>
