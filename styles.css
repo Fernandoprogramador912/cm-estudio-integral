@@ -1,4 +1,4 @@
-﻿/* Reset and Base Styles */
+/* Reset and Base Styles */
 * {
     margin: 0;
     padding: 0;
@@ -348,6 +348,40 @@ body {
 .service-item p {
     color: var(--text-light);
     line-height: 1.8;
+}
+
+/* Clients Section */
+.clients {
+    padding: 4rem 0 5rem;
+    background-color: var(--white);
+}
+
+.clients-logos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 2rem;
+    align-items: center;
+    justify-items: center;
+}
+
+.client-logo {
+    background-color: var(--bg-light);
+    padding: 1.5rem;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 12px var(--shadow);
+}
+
+.client-logo img {
+    max-width: 100%;
+    max-height: 90px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
 }
 
 /* Contact Section */
