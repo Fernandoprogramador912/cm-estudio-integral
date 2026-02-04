@@ -1,19 +1,19 @@
-# Estudio Contable - Sitio Web
+﻿# Estudio Contable - Sitio Web
 
-Sitio web profesional para estudio contable especializado en recupero de créditos fiscales y beneficios promocionales.
+Sitio web profesional para estudio contable especializado en recupero de cr├®ditos fiscales y beneficios promocionales.
 
-## Características
+## Caracter├¡sticas
 
-- Diseño responsive y moderno
+- Dise├▒o responsive y moderno
 - Secciones: Inicio, Servicios, Contacto
-- Servicios organizados en categorías:
+- Servicios organizados en categor├¡as:
   - Recuperos Impositivos
   - Recuperos Comercio Exterior
   - Beneficios Promocionales
 
-## Instalación y Uso Local
+## Instalaci├│n y Uso Local
 
-### Opción 1: NPM Scripts (Recomendado)
+### Opci├│n 1: NPM Scripts (Recomendado)
 
 ```bash
 npm run dev
@@ -27,7 +27,7 @@ npm start
 
 Luego abre tu navegador en: `http://localhost:8000`
 
-### Opción 2: Servidor HTTP de Python
+### Opci├│n 2: Servidor HTTP de Python
 
 ```bash
 python -m http.server 8000
@@ -41,7 +41,7 @@ python -m http.server 8000
    - Ve a https://github.com y crea una cuenta
    - Crea un nuevo repositorio (puedes llamarlo "estudio-contable" o similar)
 
-2. **Subir el código a GitHub:**
+2. **Subir el c├│digo a GitHub:**
    ```bash
    git init
    git add .
@@ -53,14 +53,14 @@ python -m http.server 8000
 
 3. **Conectar con Vercel:**
    - Ve a https://vercel.com
-   - Inicia sesión con tu cuenta de GitHub
+   - Inicia sesi├│n con tu cuenta de GitHub
    - Click en "New Project"
    - Importa tu repositorio
-   - Vercel detectará automáticamente que es un sitio estático
+   - Vercel detectar├í autom├íticamente que es un sitio est├ítico
 
 4. **Configurar dominio personalizado:**
    - En el dashboard de Vercel, ve a tu proyecto
-   - Settings → Domains
+   - Settings ÔåÆ Domains
    - Agrega tu dominio personalizado
    - Sigue las instrucciones para configurar los DNS
 
@@ -68,21 +68,21 @@ python -m http.server 8000
 
 ```
 .
-├── index.html      # Página principal
-├── styles.css      # Estilos
-├── script.js       # JavaScript
-├── package.json    # Configuración del proyecto
-└── README.md       # Documentación
+Ôö£ÔöÇÔöÇ index.html      # P├ígina principal
+Ôö£ÔöÇÔöÇ styles.css      # Estilos
+Ôö£ÔöÇÔöÇ script.js       # JavaScript
+Ôö£ÔöÇÔöÇ package.json    # Configuraci├│n del proyecto
+ÔööÔöÇÔöÇ README.md       # Documentaci├│n
 ```
 
-## Información de Contacto
+## Informaci├│n de Contacto
 
-- **Dirección**: Calle 142 N° 1554 - Berazategui
-- **Teléfono**: 11-5625-2417
+- **Direcci├│n**: Calle 142 N┬░ 1554 - Berazategui
+- **Tel├®fono**: 11-5625-2417
 
 ## Notas
 
-- Las imágenes se cargan desde Unsplash (repositorio de imágenes gratuitas)
-- El sitio está optimizado para funcionar completamente offline si se descargan las imágenes
-- Diseño inspirado en sitios profesionales de consultoría tributaria
+- Las im├ígenes se cargan desde Unsplash (repositorio de im├ígenes gratuitas)
+- El sitio est├í optimizado para funcionar completamente offline si se descargan las im├ígenes
+- Dise├▒o inspirado en sitios profesionales de consultor├¡a tributaria
 

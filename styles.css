@@ -1,4 +1,4 @@
-/* Reset and Base Styles */
+﻿/* Reset and Base Styles */
 * {
     margin: 0;
     padding: 0;
@@ -288,7 +288,7 @@ body {
     box-shadow: 0 5px 20px var(--shadow);
 }
 
-/* Mantener 4rem de espacio entre todas las categorías, incluso si son de secciones diferentes */
+/* Mantener 4rem de espacio entre todas las categor├¡as, incluso si son de secciones diferentes */
 .services:not(:last-of-type) .service-category:last-child {
     margin-bottom: 4rem;
 }
